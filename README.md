@@ -1,9 +1,9 @@
 # simplestRNRedux
-最简单的React-Native Redux实例
 
-> 没有中间件、没有异步操作、没有页面跳转，只在一个页面改变store并显示
+> 没有中间件、没有异步操作、没有页面跳转，只在一个页面改变store并显示,所以称作最简单的React-Native Redux实例
 
 效果：
+
 ![效果图](http://7xphbb.com1.z0.glb.clouddn.com/simplestRNRedux.gif)
 
 此页面代码：
